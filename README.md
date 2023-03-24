@@ -46,7 +46,7 @@ while also implementing ES6 classes. I also needed to be able to write modular, 
 ## Technologies Used:
 
 This application was written 100% in JavaScript and used the Mocha and Chai testing libraries.
-
+ 
 
 
 
